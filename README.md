@@ -15,13 +15,13 @@ Welcome to the Simple Tic-Tac-Toe Game! This is a basic console-based Python gam
 ## Game Board
 
 The game board is a simple 3x3 grid, displayed like this:
-
+```
  1 | 2 | 3 
 -----------
  4 | 5 | 6 
 -----------
  7 | 8 | 9 
-
+```
 
 ## Winning the Game
 
